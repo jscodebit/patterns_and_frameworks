@@ -1,0 +1,49 @@
+days: 1 – 2
+duration: 2
+place: Canggu
+description: Canggu has it all – from a low-key boho beach vibe
+arrival: 06/may/2020 morning 10:00am
+depature: 07/may/2020 evening 07:00pm
+stay: COMO or The Slow
+activity: Surf, get massages, shop, and just hang out. 
+food: Crate Cafe for breakfast, Mason for dinner
+==============================
+days: 3 – 5
+duration: 3
+place: Uluwatu
+description: Sunset and bites at Single Fin, fresh fish dinner on the beach on Bingin Beach 
+arrival: 07/may/2020 night 09:30pm
+depature: 09/may/2020 morning 07:00am 
+stay: The Edge or Anantara 
+activity: Uluwatu Temple, Bingin Beach, Thomas Beach, Sunsets at Single Fin
+food: On the Beach
+===============================
+days: 5 – 7
+duration: 3
+place: Ubud
+description: Ubud will be a welcome break from the more party cultures of Canggu and Uluwatu
+arrival: 09/may/2020 morning 9:45am
+depature: 11/may/2020 afternoon 03:00am 
+stay: Four Seasons or the Viceroy
+activity: Waterfalls, Rice Fields, Monkey Forest, Markets, Campuhan Ridge Trek
+food: Naughty Nuri’s for barbecue grilled ribs
+===============================
+days: 7 - 9
+duration: 2
+place: Sanur
+description: 
+arrival: 11/may/2020 evening 06:25pm
+depature: 13/may/2020 morning 07:25am 
+stay: 353 Degrees North
+activity: There are a number of fast boat ferry companies that make the trip from Bali to Nusa Lembongan
+food: The Deck, Lembongan Reef Bar, and Blue Corner Dive
+=================================
+days: 9-10
+duration: 1
+place: Nusa Lembongan & Gili Islands
+description: Explore the other Gili Islands that you’re not staying on for the day, or just soak up the sun and beach.
+arrival: 13/may/2020 night 08:40am
+depature: 14/may/2020 morning 07:00am 
+stay: Ombak Sunset
+activity: Since it’s your last night on the island, make it a good one
+food: Da Maria

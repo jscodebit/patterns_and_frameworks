@@ -1,0 +1,27 @@
+indexOf
+compareTo
+endsWith
+replace
+toLowerCase
+toUpperCase
+contains
+
+informatics
+info - starting
+ics - ends
+vowles - start
+construct words using vowles alone
+consonents words
+Check whether a Singly Linked List is a Palindrome
+
+Map
+Set
+LinkedList
+
+Art
+- censorship pf art and artists
+- creativity
+- art at school
+- the benefits of art for indivi
+
+
